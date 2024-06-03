@@ -22590,5 +22590,400 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Live%20A%20Live/Kiss%20of%20Jealousy.mp3",
     "Binary": "binaries/Live A Live/Kiss of Jealousy.bin",
     "Duration": 52.440423749999994
+  },
+  {
+    "Game": "International Superstar Soccer 64",
+    "Song": "Fanfare 3",
+    "Composers": "Tsutomu Ogura, Harumi Ueko",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=h0t0RYiTfRg",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:16:42 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/International Superstar Soccer 64/Fanfare 3 (REV 1).bin",
+    "Duration": 6.305739
+  },
+  {
+    "Game": "Rayman",
+    "Song": "Yeah! (PS1)",
+    "Composers": "Rémi Gazel",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=L2dpO1P-i2w",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Rayman/Yeah (PS1) (REV 1).bin",
+    "Duration": 5.345117604166666
+  },
+  {
+    "Game": "Team Fortress 2",
+    "Song": "Victory",
+    "Composers": "Mike Morasky",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=kTIHjtywhLc",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Team Fortress 2/Victory (REV 2).bin",
+    "Duration": 5.5101044166666675
+  },
+  {
+    "Game": "International Superstar Soccer 64",
+    "Song": "Title Screen",
+    "Composers": "Tsutomu Ogura, Harumi Ueko",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=JoTJxKd_XLA",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:39 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/International Superstar Soccer 64/Title Screen (REV 1).bin",
+    "Duration": 5.32258375
+  },
+  {
+    "Game": "The Town with No Name",
+    "Song": "Mr. Diablo",
+    "Composers": "The Jester",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=hwikgUckAHs",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning",
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:40 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/The Town with No Name/Mr Diablo (REV 1).bin",
+    "Duration": 3.9423037499999993
+  },
+  {
+    "Game": "Skull Island: Rise of Kong",
+    "Song": "Kong Has Conquered!",
+    "Composers": "Ronny Antares",
+    "Converters": "adeleine64DS",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=GogfXuzOehA",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:19:41 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Skull Island Rise of Kong/Kong Has Conquered (REV 1).bin",
+    "Duration": 4.4117625
+  },
+  {
+    "Game": "The Legend of Zelda: The Wind Waker",
+    "Song": "Grandma's Theme",
+    "Composers": "Koji Kondo",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Interiors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:31:26 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20The%20Wind%20Waker/Grandmas%20Theme.mp3",
+    "Binary": "binaries/The Legend of Zelda The Wind Waker/Grandmas Theme.bin",
+    "Duration": 89.10585809374999
+  },
+  {
+    "Game": "Super Mario Land",
+    "Song": "Easton Kingdom (Aztec Remix)",
+    "Composers": "Hirokazu Tanaka",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%20Land/Easton%20Kingdom%20(Aztec%20Remix).mp3",
+    "Binary": "binaries/Super Mario Land/Easton Kingdom (Aztec Remix).bin",
+    "Duration": 158.608656
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Song": "Fanfare",
+    "Composers": "Nobuo Uematsu",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Final%20Fantasy%20VII/Fanfare%20(REV%202).mp3",
+    "Binary": "binaries/Final Fantasy VII/Fanfare (REV 2).bin",
+    "Duration": 4.44
+  },
+  {
+    "Game": "Sonic the Hedgehog",
+    "Song": "Chaos Emerald",
+    "Composers": "Masato Nakamura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "majoritems",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Collection"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Sonic%20the%20Hedgehog/Chaos%20Emerald%20(REV%201).mp3",
+    "Binary": "binaries/Sonic the Hedgehog/Chaos Emerald (REV 1).bin",
+    "Duration": 3.0769199999999994
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Song of Light",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Light%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Light (REV 1).bin",
+    "Duration": 4.579166666666667
+  },
+  {
+    "Game": "The Legend of Zelda: Spirit Tracks",
+    "Song": "Song of Healing",
+    "Composers": "Toru Minegishi, Manaka Tominaga",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:52 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Spirit%20Tracks/Song%20of%20Healing%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Spirit Tracks/Song of Healing (REV 1).bin",
+    "Duration": 2.8030321249999997
+  },
+  {
+    "Game": "Pac-Man",
+    "Song": "Level Intro",
+    "Composers": "Shigeichi Ishimura",
+    "Converters": "OnlySpaghettiCode",
+    "Category": "events",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 21:33:53 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pac-Man/Level%20Intro%20(REV%201).mp3",
+    "Binary": "binaries/Pac-Man/Level Intro (REV 1).bin",
+    "Duration": 4.609374385416667
+  },
+  {
+    "Game": "Kingdom Hearts II",
+    "Song": "Darkness of the Unknown: Armored Xemnas",
+    "Composers": "Yoko Shimomura",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Rebalanced Volume to -16db integrated",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Thu May 30 2024 22:51:48 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kingdom%20Hearts%20II/Darkness%20of%20the%20Unknown%20Armored%20Xemnas%20(REV%201).wav",
+    "Binary": "binaries/Kingdom Hearts II/Darkness of the Unknown Armored Xemnas (REV 1).bin",
+    "Duration": 106.05734915625
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Junior Street",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 31 2024 12:16:15 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Junior%20Street.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Junior Street.bin",
+    "Duration": 65.5768575
+  },
+  {
+    "Game": "Mario Hoops 3-on-3",
+    "Song": "Who is the CoinHunter?",
+    "Composers": "Masayoshi Soken",
+    "Converters": "SirEnobMort",
+    "Category": "bgm",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Fri May 31 2024 12:18:04 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Hoops%203-on-3/Who%20is%20the%20CoinHunter.mp3",
+    "Binary": "binaries/Mario Hoops 3-on-3/Who is the CoinHunter.bin",
+    "Duration": 69.47371199999999
+  },
+  {
+    "Game": "Mario Party",
+    "Song": "Play a Mini-game!",
+    "Composers": "Yasunori Mitsuda",
+    "Converters": "Zion Jaymes",
+    "Category": "bgm",
+    "Additional Notes": "Even though \"Minigame\" is in the title, I feel that this one is much more appropriate for shops and stuff",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Fri May 31 2024 12:20:16 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Party/Play%20a%20Mini-game.mp3",
+    "Binary": "binaries/Mario Party/Play a Mini-game.bin",
+    "Duration": 17
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Ray of hope",
+    "Category": "bgm",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Interiors",
+      "Gloomy"
+    ],
+    "Additional Notes": "https://www.youtube.com/@ShinkoNet",
+    "Verified": true,
+    "Date": "Sat Jun 01 2024 21:33:50 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Ray%20of%20hope.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Ray of hope.bin",
+    "Duration": 64.96243199999999
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "Through the Lawns",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Update Notes": "Realized I made it louder than it should be last update, so volume is reduced. Instrument panning and other smaller fixes also done",
+    "Tags": [
+      "Lobbies and Shops",
+      "Happy",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 01 2024 22:46:28 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/Through%20the%20Lawns%20(REV%202).mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/Through the Lawns (REV 2).bin",
+    "Duration": 38
+  },
+  {
+    "Game": "No More Heroes",
+    "Song": "N.M.H.",
+    "Composers": "Masafumi Takada",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://youtu.be/4LecBjvnY90?si=r_Bjnbkhd6bZKkR1",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sat Jun 01 2024 23:04:18 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/No More Heroes/NMH.bin",
+    "Duration": 146.62109375
+  },
+  {
+    "Game": "Corpse Party: BloodCovered",
+    "Song": "Gameover",
+    "Category": "events",
+    "Composers": "Mao Hamamoto",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Gloomy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 06:25:45 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Corpse%20Party%20BloodCovered/Gameover.mp3",
+    "Binary": "binaries/Corpse Party BloodCovered/Gameover.bin",
+    "Duration": 7.016133125
+  },
+  {
+    "Game": "Super Mario 3D World",
+    "Song": "Bowser's Lava Lake Keep",
+    "Composers": "Mahito Yokota, Toru Minegishi, et. al.",
+    "Converters": "Fiy3ro",
+    "Category": "bgm",
+    "Update Notes": "Volume rebalance, fix some duplicated notes in percussion",
+    "Tags": [
+      "Interiors"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 19:01:09 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Super%20Mario%203D%20World/Bowsers%20Lava%20Lake%20Keep%20(REV%201).mp3",
+    "Binary": "binaries/Super Mario 3D World/Bowsers Lava Lake Keep (REV 1).bin",
+    "Duration": 67.8409283125
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Finish Line (1st Place)",
+    "Composers": "Kenta Nagata",
+    "Converters": "CaptainofGarbage",
+    "Category": "events",
+    "Audio": "https://www.youtube.com/watch?v=qlsN3NfwEOo",
+    "Update Notes": "Rebalanced",
+    "Tags": [
+      "Spawning"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 20:18:16 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Mario Kart 64/Finish Line (1st Place) (REV 1).bin",
+    "Duration": 6.297623770833333
+  },
+  {
+    "Game": "No More Heroes",
+    "Song": "You Rock",
+    "Composers": "Masafumi Takada",
+    "Converters": "ivelischpfuli",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Sun Jun 02 2024 20:19:40 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/No%20More%20Heroes/You%20Rock.mp3",
+    "Binary": "binaries/No More Heroes/You Rock.bin",
+    "Duration": 4.27155065625
   }
 ]
