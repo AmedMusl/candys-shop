@@ -22985,5 +22985,171 @@
     "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/No%20More%20Heroes/You%20Rock.mp3",
     "Binary": "binaries/No More Heroes/You Rock.bin",
     "Duration": 4.27155065625
+  },
+  {
+    "Game": "Dark Souls II",
+    "Song": "Majula",
+    "Composers": "Motoi Sakuraba",
+    "Converters": "ivelischpfuli",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=nB73Db1-9CA",
+    "Tags": [
+      "Interiors",
+      "Exteriors",
+      "Calm"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:38:02 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Dark Souls II/Majula.bin",
+    "Duration": 188
+  },
+  {
+    "Game": "Kirby's Dream Land 3",
+    "Song": "Grass Land 1",
+    "Composers": "Jun Ishikawa",
+    "Converters": "Cmellz",
+    "Category": "bgm",
+    "Update Notes": "Fixed peaking issue, added more reverb",
+    "Tags": [
+      "Exteriors",
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:40:47 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Kirbys%20Dream%20Land%203/Grass%20Land%201%20(REV%201).mp3",
+    "Binary": "binaries/Kirbys Dream Land 3/Grass Land 1 (REV 1).bin",
+    "Duration": 93.36392390625001
+  },
+  {
+    "Game": "The Legend of Zelda: Ocarina of Time",
+    "Song": "The Race Is On!",
+    "Composers": "Koji Kondo",
+    "Converters": "Fiy3ro",
+    "Category": "bgm",
+    "Update Notes": "Rebalances volume",
+    "Tags": [
+      "Minigames",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:42:30 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time/The%20Race%20Is%20On%20(REV%201).mp3",
+    "Binary": "binaries/The Legend of Zelda Ocarina of Time/The Race Is On (REV 1).bin",
+    "Duration": 40.89276473958333
+  },
+  {
+    "Game": "Mario + Rabbids: Kingdom Battle",
+    "Song": "The Waterfall Puzzle",
+    "Composers": "Grant Kirkhope",
+    "Converters": "LBFrank",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 19:44:08 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20%20Rabbids%20Kingdom%20Battle/The%20Waterfall%20Puzzle.mp3",
+    "Binary": "binaries/Mario  Rabbids Kingdom Battle/The Waterfall Puzzle.bin",
+    "Duration": 92.0000637158203
+  },
+  {
+    "Game": "Touhou Shinreibyou ~ Ten Desires",
+    "Song": "Old Yuanxian",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Fights",
+      "Minigames"
+    ],
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 22:05:18 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Shinreibyou%20~%20Ten%20Desires/Old%20Yuanxian.mp3",
+    "Binary": "binaries/Touhou Shinreibyou ~ Ten Desires/Old Yuanxian.bin",
+    "Duration": 100.689484
+  },
+  {
+    "Game": "Touhou Eiyashou ~ Imperishable Night",
+    "Song": "Love-coloured Master Spark",
+    "Category": "bgm",
+    "Composers": "ZUN",
+    "Converters": "Schwartz Gandhi",
+    "Tags": [
+      "Exteriors",
+      "Fights",
+      "Happy"
+    ],
+    "Update Notes": "guitar is wip. rebalance hotifx",
+    "Verified": true,
+    "Date": "Mon Jun 03 2024 23:55:56 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Touhou%20Eiyashou%20~%20Imperishable%20Night/Love-coloured%20Master%20Spark%20(REV%202).mp3",
+    "Binary": "binaries/Touhou Eiyashou ~ Imperishable Night/Love-coloured Master Spark (REV 2).bin",
+    "Duration": 116.44984000000001
+  },
+  {
+    "Game": "Pokémon Diamond, Pearl & Platinum",
+    "Song": "Champion Cynthia's Battle theme",
+    "Composers": "Junichi Masuda, Go Ichinose",
+    "Converters": "UmedMuzl",
+    "Category": "bgm",
+    "Tags": [
+      "Fights"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 04 2024 10:38:29 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Pok%C3%A9mon%20Diamond,%20Pearl%20%20Platinum/Champion%20Cynthias%20Battle%20theme%20(REV%201).mp3",
+    "Binary": "binaries/Pokémon Diamond, Pearl  Platinum/Champion Cynthias Battle theme (REV 1).bin",
+    "Duration": 85.04153949999998
+  },
+  {
+    "Game": "Mario Kart 64",
+    "Song": "Final Lap",
+    "Composers": "Kenta Nagata",
+    "Converters": "ivelischpfuli",
+    "Category": "events",
+    "Tags": [
+      "Spawning",
+      "Collection",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Tue Jun 04 2024 19:50:33 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Mario%20Kart%2064/Final%20Lap.mp3",
+    "Binary": "binaries/Mario Kart 64/Final Lap.bin",
+    "Duration": 3.7773704999999995
+  },
+  {
+    "Game": "Plok",
+    "Song": "Akrillic",
+    "Composers": "Tim Follin, Geoff Follin",
+    "Converters": "CaptainofGarbage",
+    "Category": "bgm",
+    "Audio": "https://www.youtube.com/watch?v=ACSWFSPHcpM",
+    "Additional Notes": "RIP Geoff Follin",
+    "Tags": [
+      "Exteriors",
+      "Happy"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 22:31:38 GMT+0000 (Coordinated Universal Time)",
+    "Binary": "binaries/Plok/Akrillic.bin",
+    "Duration": 227.77014144791664
+  },
+  {
+    "Game": "Action 52",
+    "Song": "Game 52: Cheetahmen [BGM] (NES)",
+    "Composers": "Mario González, Javier Pérez, Ed Bogas",
+    "Converters": "Wibdiwoh",
+    "Category": "bgm",
+    "Tags": [
+      "Exteriors"
+    ],
+    "Verified": true,
+    "Date": "Wed Jun 05 2024 22:33:51 GMT+0000 (Coordinated Universal Time)",
+    "Audio": "https://github.com/theballaam96/candys-shop/raw/main/previews/Action%2052/Game%2052%20Cheetahmen%20%5BBGM%5D%20(NES).mp3",
+    "Binary": "binaries/Action 52/Game 52 Cheetahmen [BGM] (NES).bin",
+    "Duration": 140.79583333333332
   }
 ]
